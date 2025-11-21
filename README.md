@@ -28,8 +28,8 @@ To implement HASH ALGORITHM
 
 ## Program:
 ```
-NAME: Naveen Kumar S
-REG NUM: 21222
+NAME: Abinesh 
+REG NUM: 212224040009
 
 #include <stdio.h>
 #include <string.h>
